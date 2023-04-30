@@ -1,1 +1,1 @@
-# philosophy.github.io
+# philosophy
